@@ -1,1 +1,1 @@
-# vidly_test_heroku
+# vidly with React Hook and Redux
